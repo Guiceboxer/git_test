@@ -1,4 +1,3 @@
 # git_test
-
-Hello odin!
-hello world
+My second GitHub repo!
+Hello Odin2!
